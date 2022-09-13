@@ -17,6 +17,7 @@ Data set : https://www.kaggle.com/datasets/kazanova/sentiment140 <br/>
 6. Matplotlib <br/>
 7. Seaborn <br/>
 8. Tensorflow-Keras <br/>
+9. Jupyter Notebok and Google colab for model creation
 
 # Word Representation <br/>
 1. TFIDF - For Naive Bayes, Support Vector Machine and Logistic Regression
