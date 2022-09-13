@@ -16,4 +16,9 @@ Data set : https://www.kaggle.com/datasets/kazanova/sentiment140 <br/>
 5. Scikit Learn <br/>
 6. Matplotlib <br/>
 7. Seaborn <br/>
-8. Tensorflow-Keras
+8. Tensorflow-Keras <br/>
+
+# Word Representation <br/>
+1. TFIDF - For Naive Bayes, Support Vector Machine and Logistic Regression
+2. One-Hot Representation - For BiLSTM
+3. Bert Encoding - For BERT 
