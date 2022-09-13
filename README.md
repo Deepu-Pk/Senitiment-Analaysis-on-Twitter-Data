@@ -6,3 +6,4 @@ AI Algorithms : <br/>
 3 . Logistic Regression <br/>
 4 . Bidirectional LSTM <br/>
 5.  BERT
+Data set : https://www.kaggle.com/datasets/kazanova/sentiment140
